@@ -1,3 +1,5 @@
+http://bob.ippoli.to/mbit-intro-4-game/
+
 Choose your own adventure story example for Mission Bit's Spring 2014 Intro
 class 4.
 

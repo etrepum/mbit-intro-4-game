@@ -10,3 +10,35 @@ li {
 a, a:visited {
     color: blue;
 }
+
+.icon {
+    width: 128px;
+    height: 128px;
+    margin: 2px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+
+.icon.fail {
+    background-color: red;
+}
+
+.icon.wolf {
+    background-image: url(img/ware_wolf.png);
+}
+
+.icon.goat {
+    background-image: url(img/goat.png);
+}
+
+.icon.cabbage {
+    background-image: url(img/lettuce.png);
+}
+
+.icon.river {
+    background-image: url(img/ele_water.png);
+}
+
+.icon.boat {
+    background-image: url(img/boat.png);
+}
